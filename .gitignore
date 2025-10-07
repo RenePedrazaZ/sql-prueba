@@ -1,0 +1,17 @@
+# Archivos del sistema (macOS)
+.DS_Store
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Entornos virtuales (Python)
+venv/
+__pycache__/
+
+# Otros comunes
+.idea/
+.ipynb_checkpoints/
